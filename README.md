@@ -72,7 +72,26 @@
 <hr/>
 
 <br/>
-<img src="file:///C:/Users/ahlre/Downloads/ogif.gif"
+<div align="center">
+    <h2>
+        Sobre mim
+    </h2>
+    <br>
+    <h3>
+    Pokerzin
+    </h3>
+    <br>
+    <img src="https://github.com/ArturRegadas/ArturRegadas/blob/main/11.09/gifizin.gif" height=350
+    <hr/>
+    <br>
+    <h3>
+    VRUM VRUMM
+    </h3>
+    <br>
+    <img src="https://cuyomotor.com.ar/wp-content/uploads/2021/04/Ford-Mustang-GT-1140x570.jpg" height=350
+         
+</div>
+
 
 <br/>
 
