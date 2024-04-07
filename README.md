@@ -35,8 +35,9 @@
 <h2 align="center">⚒️ Linguagem-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
+    <!--
     <img src="https://store-images.s-microsoft.com/image/apps.23372.14107117329069310.4b704e0c-2467-45b1-84e7-6f30685c3d9c.3aef0211-caa2-419e-9994-c8bd1e0e484f?h=464" height=75><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height=75>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  -->
     <br>
 </div>
 
@@ -57,13 +58,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ArturRegadas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ArturRegadas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ArturRegadas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -71,10 +72,7 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<img src="file:///C:/Users/ahlre/Downloads/ogif.gif"
 
 <br/>
 
