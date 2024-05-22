@@ -14,7 +14,7 @@
  
  🔭 Ativo na **comunidade**
  
- 🌱 Atualmente estudando **MachineLearning, C#, Banco de Dados**
+ 🌱 Atualmente estudando **MachineLearning, C#, Grafos, Matrizes**
 
 💬 Nada contra, mas **Front-End 🤮🤮🤮**
 
@@ -37,7 +37,7 @@
 <div align="center">
     <!--
     <img src="https://store-images.s-microsoft.com/image/apps.23372.14107117329069310.4b704e0c-2467-45b1-84e7-6f30685c3d9c.3aef0211-caa2-419e-9994-c8bd1e0e484f?h=464" height=75><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height=75>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  -->sei nada:/
     <br>
 </div>
 
