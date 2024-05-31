@@ -16,7 +16,7 @@
  
  🌱 Atualmente estudando **MachineLearning, C#, Grafos, Matrizes**
 
-💬 Nada contra, mas **Front-End 🤮🤮🤮**
+Vivendo uma crise quase existencial
 
 ⚡ O **ChatGPT** só vez o ultimo dos textos
 
