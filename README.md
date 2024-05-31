@@ -12,13 +12,15 @@
 
 <div align="center">
  
- 🔭 Ativo na **comunidade**
+ 🔭 Ativo na **comunidade**, só q não
  
  🌱 Atualmente estudando **MachineLearning, C#, Grafos, Matrizes**
 
 💬 Nada contra, mas **Front-End 🤮🤮🤮**
 
 ⚡ O **ChatGPT** só vez o ultimo dos textos
+
+EU<ANALFABETO<DESEMBREGADO<ESTAGIARIO<JUNIO<PLENO<SENIOR
 
  </div>
  
