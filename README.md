@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 Ativo na **comunidade**, só q não
+ 🔭 Ativo na **comunidade**?
  
  🌱 Atualmente estudando **MachineLearning, C#, Grafos, Matrizes**
 
