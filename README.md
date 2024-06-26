@@ -16,7 +16,7 @@
  
  🌱 Atualmente estudando **MachineLearning, C#, Grafos, Matrizes**
 
-Vivendo uma crise quase existencial
+Inimigo do CleanCode
 
 ⚡ O **ChatGPT** só vez o ultimo dos textos
 
