@@ -39,7 +39,8 @@ EU<ANALFABETO<DESEMBREGADO<ESTAGIARIO<JUNIOR<PLENO<SENIOR
 <div align="center">
     <!--
     <img src="https://store-images.s-microsoft.com/image/apps.23372.14107117329069310.4b704e0c-2467-45b1-84e7-6f30685c3d9c.3aef0211-caa2-419e-9994-c8bd1e0e484f?h=464" height=75><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height=75>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  -->sei nada:/
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tcl.svg/640px-Tcl.svg.png" height=75>                  -->
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31722e5d-51f1-4d82-8e9a-ba9c44b1ce36/d7amjsf-c9c26c8e-e4c4-4778-a6e6-770387bce057.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMxNzIyZTVkLTUxZjEtNGQ4Mi04ZTlhLWJhOWM0NGIxY2UzNlwvZDdhbWpzZi1jOWMyNmM4ZS1lNGM0LTQ3NzgtYTZlNi03NzAzODdiY2UwNTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ncgoQ0OTBlZDRafiz9f6XoxQ_UTbbF0iu3xXRcs6huI" height=75>
     <br>
 </div>
 
