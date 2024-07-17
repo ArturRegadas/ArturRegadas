@@ -14,7 +14,7 @@
  
  🔭 Ativo na **comunidade**?
  
- 🌱 Atualmente estudando **Raspberry Pi, C#, Django, Grafos**
+ 🌱 Atualmente estudando **Raspberry Pi, C#, Django, Grafos, Esquema de Pirâmide **
 
 Inimigo do CleanCode
 
