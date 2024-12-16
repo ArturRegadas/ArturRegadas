@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArturRegadas.ArturRegadas" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opa!+👋;" />
@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 Ativo na **comunidade**?
+✋ se nao for **LOW CODE** nem mecho
  
  🌱 Atualmente estudando **Raspberry Pi, C#, Django, Grafos, Esquema de Pirâmide **
 
