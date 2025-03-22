@@ -9,7 +9,7 @@
   <li>Competitive Programming</li>
   <li>Data Structures</li>
   <li>Rest API</li>
-  <li>Machine Learining</li>
+  <li>Machine Learning</li>
   <li>CyberSecurity</li>
   <li>Compilation and Language Construction</li>
 </ul>
